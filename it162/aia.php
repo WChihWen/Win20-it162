@@ -9,7 +9,7 @@
                 </tr>
                 <tr>
                     <td>Client's business (website) name</td>
-                    <td>Chih Wen's Learning and Training Blog</td>
+                    <td>Chih Wen's Learning Blog</td>
                 </tr>
                 <tr>
                     <td>Redesign or brand new website</td>
@@ -23,7 +23,7 @@
                     <td>Client's goal(s)</td>
                     <td>
                         <p>
-                        First, it will note some skills or tools for coding. Second, it will note my coding practice using javascript for preparing interviews of finding work.
+                        First, I will note some skills or tools for coding. Second, it will be noted my coding practice using some programming language I learned at Seattle Central College.
                         </p>
                     </td>
                 </tr>
