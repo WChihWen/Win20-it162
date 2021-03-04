@@ -71,6 +71,7 @@
     </label>
 </div>	
 <div class="g-recaptcha" data-sitekey="<?=$siteKey;?>"></div>
+<br><br>
 <div>
     <input type="submit" value="submit" />
 </div>

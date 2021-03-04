@@ -8,7 +8,7 @@ Used to store all of our WEB120 configuration information
 $nav1['index.php'] = "Welcome";
 $nav1['big/index.php'] = "Big";
 $nav1['aia.php'] = "AIA";
-$nav1['flowchart.php'] = "Flowchart";
+$nav1['https://docs.google.com/document/d/1lZAiEqKidqbsThhoFhnA_Bow52on1ug_jcEJQLAbx5Q/edit#heading=h.pehoqu9nbu3p'] = "Flowchart";
 $nav1['fp/index.php'] = "Final Project";
 $nav1['contactme.php'] = "Contact Chih Wen Wang";
 
