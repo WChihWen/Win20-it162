@@ -77,7 +77,7 @@
             </div>
         <div id="divcode">
             <h4 id="h4Code"></h4>
-            <pre><code id="mycode" class="java"></code></pre>
+            <pre><code id="mycode" class="python"></code></pre>
         </div>
         
     </section>    
