@@ -70,7 +70,7 @@
 <div class="wrapper">
     <aside class="list-type2">
         <ol>
-            <li id="li-history"><a href="#" target="blanck">Sorting Algorithm</a></li>
+            <li id="li-history"><a href="#">Sorting Algorithm</a></li>
             <li id="li-BubbleSort"><a href="#">Bubble Sort</a></li>
             <li id="li-SelectionSort"><a href="#">Selection Sort</a></li>
             <li id="li-InsertionSort"><a href="#">Insertion Sort</a></li>
