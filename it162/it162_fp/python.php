@@ -63,7 +63,7 @@
 <div class="wrapper">
     <aside class="list-type5">
         <ol>
-            <li id="li-history"><a href="#" target="blanck">History</a></li>
+            <li id="li-history"><a href="#">History</a></li>
             <li id="li-declaration"><a href="#">Declaration</a></li>
             <li id="li-loop"><a href="#">Loop</a></li>
             <li id="li-branches"><a href="#">Branches</a></li>
